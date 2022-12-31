@@ -1,11 +1,12 @@
 
 ### Olá!👋🏾 Bem-vindo ao meu universo de programação 👾
 
-- 🔭 Sou desenvolvedora Back-End e futuramente Front-End
-- 📖 Estudando: Logica de programação Back-End
+- 🌱 Formada em Administração
+- 🌱 Estudando Front-End: HTML, CSS, JAVASCRIPT
+- 🌱 Estudando Back-End: Mongo, SQLITE, API REST e NODE JS
 - 🫱🏾🫲🏾 Trabalho bem em equipe
 - 📫 E-mail: belinessa2001@yahoo.com
-- 🌱 Conhecimento nunca é demais
+- 🎶 Amo ouvir musica :)
 
 <div align="center">
   <a href="https://github.com/BELLY0721">
