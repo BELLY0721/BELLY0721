@@ -23,9 +23,8 @@
   <img align="center" alt="Beli-NodeJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Beli-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/108633641/210156552-884f8008-fd15-447f-a891-237d83d89b35.png">
 </div>
-
   
---
+  --
   
 <div> 
 <a href="https://www.instagram.com/belly0721/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
