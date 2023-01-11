@@ -24,7 +24,8 @@
   <img align="right" alt="Beli-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/108633641/210156552-884f8008-fd15-447f-a891-237d83d89b35.png">
 </div>
 
-
+--
+  
 <div> 
 <a href="https://www.instagram.com/belly0721/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:belinessa2001@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-9146FF?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
