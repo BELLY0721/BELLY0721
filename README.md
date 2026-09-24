@@ -2,8 +2,7 @@
 ### Olá!👋🏾 Bem-vindo ao meu universo de programação 👾
 
 - 🌱 Formada em Administração
-- 🌱 Estudando Front-End: HTML, CSS, JAVASCRIPT
-- 🌱 Estudando Back-End: Mongo, SQLITE, API REST e NODE JS
+- 🌱 Estudando Front-End: HTML
 - 🫱🏾🫲🏾 Trabalho bem em equipe
 - 📫 E-mail: belinessa2001@yahoo.com
 - 🎶 Amo ouvir musica :)
